@@ -18,7 +18,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Standard%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://www.literatureandlatte.com/wp-content/uploads/2017/11/LaptopScriv.jpg" width="824" alt="Screenshot"/>
+<img src="https://i.ytimg.com/vi/Uhc9_wkeMh4/maxresdefault.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
